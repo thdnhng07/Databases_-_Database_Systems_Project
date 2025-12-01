@@ -1,7 +1,3 @@
-Below is the **clean, fully professional README.md version with all icons removed**, keeping your structure but rewriting it in a more formal tone.
-
----
-
 # VinRestaurant — Restaurant Information & Operations Management System
 
 ## Brief Description
@@ -218,15 +214,3 @@ This project addresses common operational challenges in restaurants, including m
 * Interface refinement
 * Documentation completion
 * Final demo and deployment preparation
-
----
-
-If you want, I can also generate:
-
-* A fully written ERD
-* SQL schema (DDL)
-* Stored procedures and trigger scripts
-* Folder structure for backend and frontend
-* A professional project report or presentation slides
-
-Just tell me which part you want next.
